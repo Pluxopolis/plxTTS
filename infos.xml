@@ -4,7 +4,7 @@
     <author><![CDATA[Lumière]]></author>
     <version>1.0</version>
     <date>2026-03-09</date>
-    <site>https://pluxml.org</site>
+    <site>http://pluxopolis.net</site>
     <description><![CDATA[Ajoute un lecteur audio (Text-to-Speech) dans chaque <article> de la page. Surligne le bloc en cours de lecture avec scroll automatique. Utilise la Web Speech API native, sans dépendance. Langue détectée depuis l'attribut lang de <html>. Réglages : voix, vitesse, tonalité, thème clair/sombre. Mode dyslexie (police OpenDyslexic) : déposer OpenDyslexic-Regular.woff2, OpenDyslexic-Bold.woff2 et OpenDyslexic-Italic.woff2 dans plugins/plxTTS/fonts/ (téléchargement : https://github.com/antijingoist/opendyslexic).]]></description>
     <scope>site</scope>
 </document>
